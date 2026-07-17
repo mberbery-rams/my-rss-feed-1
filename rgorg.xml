@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://w3.org">
+<channel>
+  <title>RG.org - Soccer News</title>
+  <link>https://rg.org</link>
+  <description>Comprehensive soccer coverage, match reports, and breaking news updates from RG.org.</description>
+  <language>en-ca</language>
+  <lastBuildDate>Fri, 17 Jul 2026 17:29:00 GMT</lastBuildDate>
+  <atom:link href="https://rg.orgrss.xml" rel="self" type="application/rss+xml" />
+  
+  <item>
+    <title>Messi Answers Argentina Critics Ahead of World Cup Final vs Spain</title>
+    <link>https://rg.orgmessi-argentina-critics-world-cup-final-spain</link>
+    <guid isPermaLink="true">https://rg.orgmessi-argentina-critics-world-cup-final-spain</guid>
+    <pubDate>Thu, 16 Jul 2026 14:30:00 GMT</pubDate>
+    <description><![CDATA[ Argentina's captain addresses media criticism and outlines the team's determination as the reigning world champions prepare to face Spain in the highly anticipated 2026 World Cup final. ]]></description>
+    <source url="https://rg.org">RG.org</source>
+  </item>
+</channel>
+</rss>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://w3.org">
+<channel>
+  <title>Private Credit Wire</title>
+  <link>https://mberbery-rams.github.io/my-rss-feed-1</link>
+  <description>Direct lending, private credit and mid-market financing news.</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 20 Jul 2026 08:00:00 GMT</lastBuildDate>
+  <atom:link href="https://mberbery-rams.github.io/my-rss-feed-1/pcwire.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>Meridian Credit Partners provides $450m unitranche facility to Vantage Logistics</title>
+    <link>https://mberbery-rams.github.io/my-rss-feed-1/meridian-vantage-pcw.html</link>
+    <guid isPermaLink="true">https://mberbery-rams.github.io/my-rss-feed-1/meridian-vantage-pcw.html</guid>
+    <pubDate>Sun, 19 Jul 2026 10:00:00 GMT</pubDate>
+    <description><![CDATA[ Meridian Credit Partners has provided a $450 million senior secured unitranche facility to Vantage Logistics to back the operator's Sun Belt expansion. ]]></description>
+    <source url="https://mberbery-rams.github.io/my-rss-feed-1">Private Credit Wire</source>
+  </item>
+
+  <item>
+    <title>Harbourline Capital closes Senior Lending Fund II at $1.75bn hard cap</title>
+    <link>https://mberbery-rams.github.io/my-rss-feed-1/harbourline-fund-pcw.html</link>
+    <guid isPermaLink="true">https://mberbery-rams.github.io/my-rss-feed-1/harbourline-fund-pcw.html</guid>
+    <pubDate>Fri, 17 Jul 2026 09:00:00 GMT</pubDate>
+    <description><![CDATA[ Harbourline Capital has held the final close of Harbourline Senior Lending Fund II at its $1.75 billion hard cap. ]]></description>
+    <source url="https://mberbery-rams.github.io/my-rss-feed-1">Private Credit Wire</source>
+  </item>
+</channel>
+</rss>
